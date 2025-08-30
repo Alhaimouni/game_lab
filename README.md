@@ -6,22 +6,20 @@ Each game has its own folder with source code, assets, and a short description.
 ---
 
 ## 📂 Repository Structure
-
-games/ # Main folder containing all games
+```
+games/
 │
 ├── game-01-name/ # First game
 ├── game-02-name/ # Second game
-└── ...
-
+└── . . .
+```
 ---
 
 ## 🕹️ Games List
 
 | Game | Folder | Description |
 |------|--------|-------------|
-| 🚀 Space Explorer | `games/space-explorer` | A simple spaceship dodging asteroids game |
-| 🐍 Snake Clone | `games/snake-clone` | Classic Snake game remake |
-| 🏀 Basketball Shoot | `games/basketball-shoot` | Score points by shooting hoops |
+| 🏀 Bouncing Ball | `games/bouncing_ball` | Hit the ball and count more score |
 
 ---
 
